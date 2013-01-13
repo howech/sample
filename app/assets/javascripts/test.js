@@ -4,3 +4,5 @@ function this_is_a_test(x) {
     console.log(x); // comment
     var y = x;
 }
+
+{
