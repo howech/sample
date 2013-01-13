@@ -14,3 +14,9 @@
 /log/*.log
 /tmp
 *~
+
+# Ignore generated public assets
+/public/assets/*
+
+# Ignore generated debian files
+/assets*.deb
