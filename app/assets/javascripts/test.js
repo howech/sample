@@ -5,4 +5,3 @@ function this_is_a_test(x) {
     var y = x;
 }
 
-{
